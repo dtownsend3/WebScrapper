@@ -68,8 +68,7 @@ Functional programming helps organize the processing of collected information th
 The actual performance depends on network speed, server response times, and the number of requests being made.
 
 ## Screenshot
-
-
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/644c3f83-8fb1-4c7b-85d2-fc157aa0eca8" />
 
 ## Website
 
